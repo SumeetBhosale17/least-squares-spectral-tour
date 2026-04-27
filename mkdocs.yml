@@ -1,6 +1,9 @@
 site_name: Least-Squares Spectral Tour
 site_description: A spectral tour of least-squares solvers — Normal Equation, QR, SVD, GD, CG, LSMR, L-BFGS — with reproducible benchmarks.
-site_url: https://example.github.io/least-squares-spectral-tour/
+site_url: https://sumeetbhosale17.github.io/least-squares-spectral-tour/
+repo_url: https://github.com/sumeetbhosale17/least-squares-spectral-tour
+repo_name: sumeetbhosale17/least-squares-spectral-tour
+edit_uri: edit/main/docs/
 
 site_dir: site
 

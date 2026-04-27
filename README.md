@@ -4,8 +4,8 @@ A reproducible tour of seven least-squares solvers — Normal Equation,
 Cholesky, QR, SVD, Gradient Descent, Conjugate Gradient, LSMR, L-BFGS —
 with the textbook **GD-vs-NE binary** dismantled along the way.
 
-> **Read the blog post:** [`docs/blog/post.md`](docs/blog/post.md)
-> **Live site:** *(coming soon — GitHub Pages URL after first deploy)*
+> **Live site:** <https://sumeetbhosale17.github.io/least-squares-spectral-tour/>
+> **Blog post:** [`docs/blog/post.md`](docs/blog/post.md) (or read it rendered on the live site)
 
 ---
 

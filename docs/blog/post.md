@@ -12,7 +12,7 @@ I assume calculus, big-O, and a working idea of what an eigenvalue is. I do not 
 
 The post starts with **batch gradient descent vs the closed-form solvers** because that's the comparison most people meet first. Sections 8–9 zoom out into the broader algorithm landscape (CG, LSMR, L-BFGS, SGD), where the GD-vs-NE binary stops being the right framing. If you only have time for one thing, read section 1.5 (the unifying principle) and section 7 (the algorithm landscape).
 
-All code, derivations, and figures are reproducible from the [companion repo](../index.md).
+All code, derivations, and figures are reproducible from the [companion repo](https://github.com/sumeetbhosale17/least-squares-spectral-tour).
 
 ---
 
@@ -418,4 +418,4 @@ Each row is a real script in `experiments/`.
 
 ---
 
-*Code, derivations, and reproducibility in the [companion overview](../index.md). Open an issue if any benchmark doesn't replicate on your hardware — the wall-clock numbers in section 5 are CPU + BLAS dependent and I want to know if the crossover lives somewhere different on your machine.*
+*Code, derivations, and reproducibility in the [companion repo](https://github.com/sumeetbhosale17/least-squares-spectral-tour). Open an issue if any benchmark doesn't replicate on your hardware — the wall-clock numbers in section 5 are CPU + BLAS dependent and I want to know if the crossover lives somewhere different on your machine.*
